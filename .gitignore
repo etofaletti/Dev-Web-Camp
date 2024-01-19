@@ -1,0 +1,6 @@
+/public/build/
+/public/img/
+/vendor/
+/node_modules/
+composer.lock
+package-lock.json
